@@ -15,4 +15,4 @@ Don't have bundler installed? Run `gem install bundler` from Terminal to get it 
 
 To run your single page prototype locally, run `bundle exec thin start`.
 That will fire up a local copy of a web server that can be accessed at
-[http://localhost:3000].
+http://localhost:3000.
